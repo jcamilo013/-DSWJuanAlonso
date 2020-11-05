@@ -1,0 +1,33 @@
+*{
+	padding:0;
+	margin:0;
+}
+header{
+	width:100%;
+	background:#f2f2f2;
+	box-shadow:1px 1px 5px #000;
+	height:70px;
+}
+#menu{
+	width:550px;
+	padding-top:10px;
+	margin:auto;
+	
+	}
+#menu ul a{	
+	color:#6e6e6e;
+	text-decoration:none;
+	font:bold 10px; Verdana;
+	padding: 12px 20px 12px 20px;
+	background:transparent;
+	border-bottom:9px solid transparent;
+	transition:border-bottom .7s;
+}
+
+#menu ul a:hover{
+	border-bottom:15px solid #6e6e6e;
+}
+
+div{
+	background:red;
+}
