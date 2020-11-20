@@ -153,38 +153,46 @@ header nav ul li .caret {
 		float: right;
 	}
 }
+
 img{
   display: block;
   margin-left: auto;
-  width: 8%;
   padding-top: 10px;
-  margin-right 10px;
+  margin-right 20px;
+  border: 2px solid black; 
+}
+.twitter-timeline{
+padding: 10px; 
+margin: 10px; 
+border: 2px solid black; 
+float: right; 
+width: 350px;
 }
 
 #puno{
-	 margin-top: 10px;
+	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 150px;
-     margin-left: 80px;
+     margin-right: 250px;
+     margin-left: 10px;
 	font: 30px Angsana New Bold;
-	padding-top: 20px;
+	padding-top: 1px;
 	padding-right: 30px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 	padding-left: 50px;
-	text-align:justify;
+	text-align:left;
 	background-color:#f0b429;
 	color:#005883;	
 }
 
 #pdos{
 	font: 30px Angsana New Bold;
-	 margin-top: 10px;
+	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 150px;
-     margin-left: 80px;
-	padding-top: 20px;
+     margin-right: 250px;
+     margin-left: 10px;
+	padding-top: 2px;
 	padding-right: 30px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 	padding-left: 50px;
 	text-align:justify;
 	background-color:#005883;
@@ -194,4 +202,76 @@ h1{
 	font-family:Angsana New Bold;
 	color: #ffe600;
 	margin-left:50px;
+}
+
+#referencia
+{
+	max-width: 50%;
+	height: auto;
+	align:center;
+}
+#pdos_a{
+	font: 30px Angsana New Bold;
+	 margin-top: 1px;
+     margin-bottom: 10px;
+     margin-right: 500px;
+     margin-left: 10px;
+	padding-top: 2px;
+	padding-right: 500px;
+	padding-bottom: 1px;
+	padding-left: 50px;
+	text-align:justify;
+	background-color:#005883;
+	color:#f0b429;	
+}
+#puno_a{
+	 margin-top: 1px;
+     margin-bottom: 10px;
+     margin-right: 500px;
+     margin-left: 10px;
+	font: 30px Angsana New Bold;
+	padding-top: 1px;
+	padding-right: 500px;
+	padding-bottom: 1px;
+	padding-left: 50px;
+	text-align:left;
+	background-color:#f0b429;
+	color:#005883;	
+}
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 30px;
+    width: 50%;
+    height: 50%;
+}
+audio
+{
+width: 800px;
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 20px 20px 40px 0px #006773;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+}
+
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
 }
