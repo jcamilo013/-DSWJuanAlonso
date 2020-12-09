@@ -1,0 +1,11 @@
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType /DSWJuanAlonso/logounad.png "access 1 day
+ExpiresByType /DSWJuanAlonso/estilos.css "access 1 day
+ExpiresByType /widgets.js "access 1 day
+ExpiresByType https://ton.twimg.com/tfw/css/syndication_bundle_v1_73385286cca9d2256f6bf3993470820d4827b058.css "access 1 day
+ExpiresByType https://ton.twimg.com/tfw/css/syndication_bundle_v1_73385286cca9d2256f6bf3993470820d4827b058.css "access 1 day
+
+</IfModule>
+## EXPIRES CACHING ##
