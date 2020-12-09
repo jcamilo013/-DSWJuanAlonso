@@ -203,7 +203,7 @@ width: 350px;
 h1{
 	font-family:Angsana New Bold;
 	color: #ffe600;
-	margin-left:50px;
+	margin-left:10%;
 }
 
 #referencia
@@ -229,7 +229,7 @@ h1{
 #puno_a{
 	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 500px;
+     margin-right: 10%;
      margin-left: 10px;
 	font: 30px Angsana New Bold;
 	padding-top: 1px;
