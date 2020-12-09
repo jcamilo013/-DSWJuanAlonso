@@ -1,5 +1,3 @@
-#main {max-width:960px; min-width:320px; margin:0 auto;}
-#main {max-width:960px; min-width:320px; margin:0 auto;}
 
 body{
 	background-color:#b3b3b3;
@@ -168,19 +166,19 @@ padding: 10px;
 margin: 10px; 
 border: 2px solid black; 
 float: right; 
-width: 20%;
+width: 350px;
 }
 
 #puno{
 	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 1px;
-     margin-left: 1px;
+     margin-right: 250px;
+     margin-left: 10px;
 	font: 30px Angsana New Bold;
 	padding-top: 1px;
-	padding-right: 1px;
-	padding-bottom: 1px;
-	padding-left: 1px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 50px;
 	text-align:left;
 	background-color:#f0b429;
 	color:#005883;	
@@ -190,12 +188,12 @@ width: 20%;
 	font: 30px Angsana New Bold;
 	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 1px;
-     margin-left: 1px;
+     margin-right: 250px;
+     margin-left: 10px;
 	padding-top: 2px;
-	padding-right: 1px;
-	padding-bottom: 1px;
-	padding-left: 1px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 50px;
 	text-align:justify;
 	background-color:#005883;
 	color:#f0b429;	
@@ -203,7 +201,7 @@ width: 20%;
 h1{
 	font-family:Angsana New Bold;
 	color: #ffe600;
-	margin-left:1px;
+	margin-left:50px;
 }
 
 #referencia
@@ -216,12 +214,12 @@ h1{
 	font: 30px Angsana New Bold;
 	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 1px;
-     margin-left: 1px;
+     margin-right: 500px;
+     margin-left: 10px;
 	padding-top: 2px;
-	padding-right: 1px;
+	padding-right: 500px;
 	padding-bottom: 1px;
-	padding-left: 1px;
+	padding-left: 50px;
 	text-align:justify;
 	background-color:#005883;
 	color:#f0b429;	
@@ -229,13 +227,13 @@ h1{
 #puno_a{
 	 margin-top: 1px;
      margin-bottom: 10px;
-     margin-right: 1px;
-     margin-left: 1px;
+     margin-right: 500px;
+     margin-left: 10px;
 	font: 30px Angsana New Bold;
 	padding-top: 1px;
-	padding-right: 1px;
+	padding-right: 500px;
 	padding-bottom: 1px;
-	padding-left: 1px;
+	padding-left: 50px;
 	text-align:left;
 	background-color:#f0b429;
 	color:#005883;	
