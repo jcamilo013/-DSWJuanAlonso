@@ -178,7 +178,7 @@ width: 350px;
 	padding-top: 1px;
 	padding-right: 30px;
 	padding-bottom: 10px;
-	padding-left: 50px;
+	padding-left: 5px;
 	text-align:left;
 	background-color:#f0b429;
 	color:#005883;	
@@ -193,7 +193,7 @@ width: 350px;
 	padding-top: 2px;
 	padding-right: 30px;
 	padding-bottom: 10px;
-	padding-left: 50px;
+	padding-left: 5px;
 	text-align:justify;
 	background-color:#005883;
 	color:#f0b429;	
@@ -201,7 +201,8 @@ width: 350px;
 h1{
 	font-family:Angsana New Bold;
 	color: #ffe600;
-	margin-left:50px;
+	margin-left:5px;
+	margin-right: 250px;
 }
 
 #referencia
